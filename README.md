@@ -12,8 +12,8 @@
 
 * ⌚️ New scripts/macros in the future!
 
-***At first when the Msg Box appears put the cd of ur skill***
+* ***At first when the Msg Box appears put the cd of ur skill***
 
-***Grabs are not working***
+* ***Grabs are not working***
 
 * Showcase : https://streamable.com/5fvq6p
